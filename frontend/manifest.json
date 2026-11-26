@@ -1,0 +1,9 @@
+{
+  "name": "Scheme Anomaly Screen",
+  "short_name": "AnomalyScreen",
+  "description": "Public Scheme Expenditure Anomaly and Fraud Screening Application",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F0E24",
+  "theme_color": "#1B1A45"
+}
